@@ -1,4 +1,4 @@
-### Hi there, ## I'm Rayees Ali 👋
+## Hi there, I'm Rayees Ali 👋
 
 
 - 🔭 I’m currently working on My Portfolio Website
@@ -17,9 +17,9 @@
 <!-- [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="rayeez-ali-4479b7181 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rayeez_Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iDevDesigner | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Github]
-[<img align="left" alt="idevdes | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Telegram]
-[<img align="left" alt="rayeez_Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Facebook]
+[<img align="left" alt="iDevDesigner | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
+[<img align="left" alt="idevdes | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="rayeez_Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
 
 
