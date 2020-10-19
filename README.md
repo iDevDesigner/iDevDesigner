@@ -3,13 +3,13 @@
 
 <br />
 
-- 🔭 I’m currently working on My Portfolio Website
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate with Other Developers
-- 🤔 I’m looking for help with MERN Stack
-- 💬 Ask me about Anything 😜
-- ⚡ Hobbies: Coding, Cooking and Football
->📫 Mail me: rayeezraz@gmail.com
+- 🔭 I’m currently working on My Portfolio Website.
+- 🌱 I’m currently learning MERN Stack.
+- 👯 I’m looking to collaborate with Other Developers.
+- 🤔 I’m looking for help with MERN Stack.
+- 💬 Ask me about Anything 😜.
+- ⚡ Hobbies: Coding, Cooking and Football.
+>📫 Mail me at: rayeezraz@gmail.com
 
 <br />
 <br />
