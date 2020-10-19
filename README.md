@@ -10,6 +10,9 @@
 >📫 Mail me: rayeezraz@gmail.com
 
 
+<br />
+<br />
+
 <!-- -->
 ### Connect with me:
 
@@ -22,6 +25,7 @@
 [<img align="left" alt="idevdes | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="rayeez_Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
+<br />
 <br />
 
 ### Languages and Tools:
