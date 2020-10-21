@@ -1,4 +1,4 @@
-## Hi there, I'm [Rayeez Ali!](https://google.com) 👋
+## Hi there, I'm [Rayeez Ali][website] 👋
 ### I'm a JAVA Full Stack Developer!
 
 <br />
@@ -59,7 +59,7 @@
 
 
 
-[website]: https://github.com/iDevDesigner "Portfolio"
+[website]: https://idevdesigner.netlify.app/ "Portfolio"
 [instagram]: https://www.instagram.com/rayeez_Ali/ "rayeez_Ali"
 [linkedin]: https://www.linkedin.com/in/rayeez-ali-4479b7181/ "rayeez-ali-4479b7181"
 [Github]: https://github.com/iDevDesigner "iDevDesigner"
